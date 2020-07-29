@@ -28,6 +28,4 @@ def all_phrases
   Mario
   link
   
-  
-  
 end 
